@@ -3,6 +3,9 @@
 ![]()
 <img src="./ff212916-a5c4-43b3-83c4-0d9617bfef6e.png" style="max-width: 500px;width=100%" />
 
+## Why Caddy?
+* Automatic TLS (SSL/ HTTPS)
+* Easy configuration
 
 1.0 Configure Docker & Caddy Server
 
@@ -18,7 +21,7 @@
 4.0 Deploy application
 
     4.1 SSH in to server
-    4.2 Git pull repo `git pull https://github.com/TomDoesTech/caddy-nodejs-docker-tutorial.git`
+    4.2 Git pull repo `git clone https://github.com/TomDoesTech/caddy-nodejs-docker-tutorial.git`
     4.3 Run deployment script
 
 5. Test SSL certificate
