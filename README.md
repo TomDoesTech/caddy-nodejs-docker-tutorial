@@ -30,3 +30,5 @@
 Notes:
 On Mac OS you need to mode the deployment script to execute it
 `chmod +x deploy.sh`
+
+YouTube video with step-by-step explanations: https://www.youtube.com/watch?v=2oNsjyaCIrI
