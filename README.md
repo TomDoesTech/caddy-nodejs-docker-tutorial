@@ -32,3 +32,10 @@ On Mac OS you need to mode the deployment script to execute it
 `chmod +x deploy.sh`
 
 YouTube video with step-by-step explanations: https://www.youtube.com/watch?v=2oNsjyaCIrI
+
+## Support
+[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
+
+[Sign up to DigitalOcean](https://m.do.co/c/1b74cb8c56f4) I 💖 DigitalOcean
+
+[Subscribe on YouTube](https://www.youtube.com/channel/UClEEzwG7Tl3-8eY11Qytsog)
